@@ -1,0 +1,8 @@
+{
+  "name": "back to dhappa original",
+  "description": "An educational probability, machine learning, and combinatorics suite featuring Consensus Pool (Top-20 5-day lookback walk-forward fusion), Model F (Max Hit Rate Engine), Haruf Pyramid Tri-Set, Belgium Square Matrix, and Empirical Multi-Engine Analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
